@@ -1,7 +1,8 @@
-import env
 import copy
 import time
 import numpy as np
+import generic_env as env
+
 
 class MinimaxAgent:
     def __init__(self, player, ply=1):
