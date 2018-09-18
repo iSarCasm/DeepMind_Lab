@@ -24,22 +24,36 @@ board2 = [
     [-1, 1, 0, 2, -1]
 ]
 
-state = {
+resetState = {
     'board': board2,
     'jumps': [0, 0],
     'adds': [1, 1],
     'current_move': 1
 }
-
+state = resetState
+#AGENT IS ALWAYS PLAYER 1
 class GenericEnv(gym.Env):
     def __init__(self):
+        self.action_space = moves(1, state)
+        self.observation_space = state['board'] #is this right
+        self.reward_range = [0, 25*25] #score is reward???
+        self.metadata = self.metadata #???
         return
     def step(self, action):
-        return
+        reward = score(1, state)
+        done = is_done(state)
+        return self.observation(), reward, done, 0
     def reset(self):
-        return
+        state = resetState
+        """Resets the state of the environment and returns an initial observation.
+        Returns: observation (object): the initial observation of the
+            space.
+        """
+        return observation_space
     def render(self, mode='human', close=False):
         return
+    def observation(self):
+        return self.observation_space
     
 def player(state):
     return state['current_move']
