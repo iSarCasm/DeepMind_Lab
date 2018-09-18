@@ -74,6 +74,7 @@ class GenericEnv(gym.Env):
         Returns: observation (object): the initial observation of the
             space.
         """
+        observation_space = state['board']
         return self.observation_space
     def render(self, mode='human', close=False):
         return
