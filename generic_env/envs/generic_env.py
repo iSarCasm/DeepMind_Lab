@@ -1,7 +1,46 @@
 import numpy as np
 import hex_helpers as hh
 import copy
+import gym
 
+
+board = [
+    [-1, -1, 1, 0, 0, 0, 0, -1, -1],
+    [-1, -1, 0, 0, 0, 0, 0, -1, -1],
+    [-1,  0, 0, 0, 0, 0, 0,  0, -1],
+    [ 1,  0, 0, 0, 0, 0, 0,  0, -1],
+    [ 0,  0, 0, 0, 0, 0, 0,  0,  0],
+    [ 0,  0, 0, 0, 0, 0, 0,  0, -1],
+    [-1, -1,-1, 0, 0, 0, 0,  0, -1],
+    [-1,  0,-1, 0, 0, 0, 0, -1, -1],
+    [-1, -1, 0, 0, 0, 0, 2, -1, -1]
+]
+
+board2 = [
+    [-1, 1, 0, 2, -1],
+    [0, -1, 0, 0, -1],
+    [2, 0, 0, 0, 1],
+    [0, 0, 0, -1, -1],
+    [-1, 1, 0, 2, -1]
+]
+
+state = {
+    'board': board2,
+    'jumps': [0, 0],
+    'adds': [1, 1],
+    'current_move': 1
+}
+
+class GenericEnv(gym.Env):
+    def __init__(self):
+        return
+    def step(self, action):
+        return
+    def reset(self):
+        return
+    def render(self, mode='human', close=False):
+        return
+    
 def player(state):
     return state['current_move']
 
