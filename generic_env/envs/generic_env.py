@@ -2,7 +2,7 @@ import numpy as np
 import hex_helpers as hh
 import copy
 import gym
-
+from gym import spaces
 
 board = [
     [-1, -1, 1, 0, 0, 0, 0, -1, -1],
@@ -24,36 +24,49 @@ board2 = [
     [-1, 1, 0, 2, -1]
 ]
 
-resetState = {
+defaultState = {
     'board': board2,
     'jumps': [0, 0],
     'adds': [1, 1],
     'current_move': 1
 }
-state = resetState
+state = defaultState
 #AGENT IS ALWAYS PLAYER 1
 class GenericEnv(gym.Env):
     def __init__(self):
+        self.action_space = spaces.Tuple([spaces.Discrete(2), spaces.Discrete(2)])
         self.action_space = moves(1, state)
+        #TODO: set box shape to actual board size
+        self.observation_space = spaces.Tuple([
+            spaces.Box(low=-1, high=2, shape=(50,50), dtype=int),
+            spaces.Box(low=-1, high=2, shape=(50,50), dtype=int)
+        ])
+        
         self.observation_space = state['board'] #is this right
         self.reward_range = [0, 25*25] #score is reward???
         self.metadata = self.metadata #???
         return
     def step(self, action):
+        global state
+        state = apply_move(action, state)
         reward = score(1, state)
+        #TODO:Do AI processing here
+        #ai.move
+        #this line replaces ai processing, delete it
+        state['current_move'] = 1
         done = is_done(state)
-        return self.observation(), reward, done, 0
+        self.action_space = moves(1, state)
+        self.observation_space = state['board']
+        return self.observation_space, reward, done, 0
     def reset(self):
-        state = resetState
+        state = defaultState
         """Resets the state of the environment and returns an initial observation.
         Returns: observation (object): the initial observation of the
             space.
         """
-        return observation_space
+        return self.observation_space
     def render(self, mode='human', close=False):
         return
-    def observation(self):
-        return self.observation_space
     
 def player(state):
     return state['current_move']
