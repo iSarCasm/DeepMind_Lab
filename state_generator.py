@@ -50,3 +50,4 @@ class StateGenerator:
 
 
 
+print(StateGenerator.generate(size=10))
