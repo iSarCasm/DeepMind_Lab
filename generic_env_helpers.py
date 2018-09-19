@@ -15,7 +15,7 @@ def all_moves(state):
     board = state['board']
     height = len(board)
     width = len(board[0])
-    moves = [{'type': 'skip'}]
+    moves = [] #[{'type': 'skip'}]
     for fy in range(height):
       for fx in range(width):
         one_step_cells = hh.neighbours(fx, fy, board, dist=1)
