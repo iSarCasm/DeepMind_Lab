@@ -1,7 +1,8 @@
 import copy
 import time
 import numpy as np
-import generic_env_helpers as env
+import generic_env as env
+
 
 class MinimaxAgent:
     def __init__(self, player, ply=1):
@@ -18,33 +19,33 @@ class MinimaxAgent:
         action = self.look_forward(state)
         if debug:
             print(action)
-            print('States evaluated - {}'.format(self.states_evaluated))
+            print('States evalueated - {}'.format(self.states_evaluated))
             print('Time taken: {}'.format(time.time() - t1))
         return action
 
     def look_forward(self, state):
         cstate = copy.deepcopy(state)
-        all_my_moves = env.legal_moves(self.player, cstate)
+        all_my_moves = env.moves(self.player, cstate)
         actions = []
 
         for m in all_my_moves:
             self.states_evaluated += 1
-            new_state = env.apply_move(m, self.player, cstate)
+            new_state = env.apply_move(m, cstate)
             score = self.minimax(new_state, self.ply-1)
             actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
         best_action = max(actions, key=lambda p: (p['score'], p['immediate_score']))
         return best_action['action']
 
     def minimax(self, state, depth=-1):
-        player = env.current_player(state)
+        player = env.player(state)
         if env.is_done(state) or depth == 0:
             return env.score(self.player, state)
         else:
-            actions = env.legal_moves(player, state)
+            actions = env.moves(player, state)
             scores = []
             for a in actions:
                 self.states_evaluated += 1
-                s = env.apply_move(a, self.player, state)
+                s = env.apply_move(a, state)
                 score = self.minimax(s, depth=depth-1)
                 scores.append(score)
 
