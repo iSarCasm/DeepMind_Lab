@@ -101,8 +101,6 @@ class GenericEnv(gym.Env):
         return observation
 
     def update_spaces(self):
-        height = len(self.state['board'])
-        width = len(self.state['board'][0])
         # self.action_space = moves(1, state) THIS SHOULD BE FIXED-SIZE SOMEHOW - ALL POSSIBLE/IMPOSSIBLE MOVEs
         # The RL agent cant use our `moves` because it can work only with
         # static action_space shape and static observation_space shape
