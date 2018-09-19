@@ -110,7 +110,7 @@ def apply_move(move, player, state):
 
 # STATE -> boolean
 def is_done(state):
-    return len(legal_moves(1, state)) == 1 and len(legal_moves(2, state)) == 1
+    return len(legal_moves(1, state)) == 1 or len(legal_moves(2, state)) == 1
 
 # STATE -> score NUMBER
 def score(player, state):
