@@ -5,6 +5,10 @@ import gym
 import time
 import copy
 
+
+#AGENT IS ALWAYS PLAYER 1
+AGENT_ID = 1
+OPPENENT_ID = 2
 # STATE -> all moves including illegal
 # TODO: only all possible adds and jumps. Right now it includes jumps and adds between ANY cells
 def all_moves(state):
@@ -41,8 +45,10 @@ def legal_moves(player, state):
                 moves.append({ 'type': 'jump', 'fx': cell[0], 'fy': cell[1], 'tx': c2[0], 'ty': c2[1] })
     return moves
 
-# STATE, PLAYER, MOVE -> STATE
+
+# STATE, PLAYER, MOVE -> STATE, MOVE_ERROR
 def apply_move(move, player, state):
+    global AGENT_ID
     new_state = copy.deepcopy(state)
     board = new_state['board']
     opponent = 1 if player == 2 else 2
@@ -56,9 +62,17 @@ def apply_move(move, player, state):
         ty = move['ty']
 
         if board[fy][fx] != player:
-            raise ValueError('Player made move not from his cell')
+            #only ai moves can be wrong, agent is just punished
+            if player == AGENT_ID:
+                return state, True
+            else:
+                raise ValueError('Player made move not from his cell')
         if board[ty][tx] == -1:
-            raise ValueError('Forbidden cell')
+            if player == AGENT_ID:
+                return state, True
+            else:
+                raise ValueError('Forbidden cell')
+            
 
         if move['type'] == 'add':
             state['adds'][player-1]+=1
@@ -75,7 +89,10 @@ def apply_move(move, player, state):
                     board[y][x] = player
         elif move['type'] == 'jump':
             if new_state['jumps'][player-1] < 1:
-                raise ValueError('Not enough jumps')
+                if player == AGENT_ID:
+                    return state, True
+                else:
+                    raise ValueError('Not enough jumps')
 
             board[fy][fx] = 0
             board[ty][tx] = player
@@ -88,7 +105,7 @@ def apply_move(move, player, state):
                     board[y][x] = player
 
     new_state['current_move'] = opponent
-    return new_state
+    return new_state, False
 
 # STATE -> boolean
 def is_done(state):

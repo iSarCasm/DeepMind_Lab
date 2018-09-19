@@ -1,15 +1,32 @@
 import gym
 import generic_env
+from random import randint
+from baselines import deepq
+
+def callback(lcl, _glb):
+    #TODO:figure out what score is "solved game"
+    is_solved = lcl['t'] > 100 and sum(lcl['episode_rewards'][-101:-1]) / 100 >= 199
+    return is_solved
 
 env = gym.make('GenericEnv-v1')
+act = deepq.learn(
+    env,
+    network='mlp',
+    lr=1e-3,
+    total_timesteps=100000,
+    buffer_size=50000,
+    exploration_fraction=0.1,
+    exploration_final_eps=0.02,
+    print_freq=10,
+    callback=callback
+)
+'''
 for _ in range(100):
-    if len(env.action_space)>1:
-        print("PLAYER 1 DOING:",env.action_space[1])
-        observation, reward, done, _ = env.step(env.action_space[1],debug=1)
-    else:
-        print("PLAYER 1 DOING:",env.action_space[0])
-        observation, reward, done, _ = env.step(env.action_space[0],debug=1)
+    action = randint(0, env.action_space.n - 1)
+    print("PLAYER 1 DOING:",action)
+    observation, reward, done, _ = env.step(action,debug=1)
     print("CURRENT REWARD:",reward)
     if done:
         print("\n=====\nGAME IS OVER NOW\n=====\n")
         break
+'''

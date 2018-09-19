@@ -6,7 +6,7 @@ import time
 import copy
 from gym import spaces
 from minimax_agent import MinimaxAgent
-from generic_env_helpers import apply_move, all_moves, is_done, score
+from generic_env_helpers import apply_move, all_moves, is_done, score, AGENT_ID, OPPENENT_ID
 
 #TODO:stop hardcoding the player
 #TODO:generate boards randomly
@@ -37,11 +37,10 @@ defaultState = {
     'current_move': 1
 }
 
-#AGENT IS ALWAYS PLAYER 1
-AGENT_ID = 1
-OPPENENT_ID = 2
+WRONG_MOVE_PUNISHMENT = -1000
 class GenericEnv(gym.Env):
     def __init__(self):
+        global OPPENENT_ID
         self.metadata = "useless crap"
         self.enemyAI = MinimaxAgent(OPPENENT_ID, ply=1)
         self.reset()
@@ -59,12 +58,15 @@ class GenericEnv(gym.Env):
 
     def step(self, action, debug=0):
         move = self.action_to_move(action)
-        self.state = apply_move(move, AGENT_ID, self.state)
+        self.state, mv_error = apply_move(move, AGENT_ID, self.state)
         #Greedy AI processing
         move = self.enemyAI.select_move(self.state, debug)
         self.state = apply_move(move, OPPENENT_ID, self.state)
         reward = score(AGENT_ID, self.state) - score(OPPENENT_ID, self.state)
         done = is_done(self.state)
+        if(mv_error == True):
+            done = True
+            reward = WRONG_MOVE_PUNISHMENT
         if debug:
             print(done)
         # self.action_space = moves(1, self.state) - THIS SHOULD BE STATIC I BELIEVE

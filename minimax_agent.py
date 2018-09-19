@@ -1,7 +1,7 @@
 import copy
 import time
 import numpy as np
-import generic_env as env
+import generic_env_helpers as env
 
 
 class MinimaxAgent:
@@ -25,12 +25,12 @@ class MinimaxAgent:
 
     def look_forward(self, state):
         cstate = copy.deepcopy(state)
-        all_my_moves = env.moves(self.player, cstate)
+        all_my_moves = env.legal_moves(self.player, cstate)
         actions = []
 
         for m in all_my_moves:
             self.states_evaluated += 1
-            new_state = env.apply_move(m, cstate)
+            new_state = env.apply_move(m, self.player, cstate)
             score = self.minimax(new_state, self.ply-1)
             actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
         best_action = max(actions, key=lambda p: (p['score'], p['immediate_score']))
