@@ -7,6 +7,7 @@ import copy
 from gym import spaces
 from minimax_agent import MinimaxAgent
 from generic_env_helpers import apply_move, all_moves, is_done, score, AGENT_ID, OPPENENT_ID
+from state_generator import generate_state
 
 #TODO:stop hardcoding the player
 #TODO:generate boards randomly
@@ -51,7 +52,8 @@ class GenericEnv(gym.Env):
         space.
     """
     def reset(self):
-        self.state = copy.deepcopy(defaultState)
+        # self.state = copy.deepcopy(defaultState)
+        self.state = generate_state(size = 15)
         self.update_spaces()
         self.all_moves = all_moves(self.state)
         return self.observation_from_state()
@@ -107,6 +109,8 @@ class GenericEnv(gym.Env):
         return observation
 
     def update_spaces(self):
+        height = len(self.state['board'])
+        width = len(self.state['board'][0])
         # self.action_space = moves(1, state) THIS SHOULD BE FIXED-SIZE SOMEHOW - ALL POSSIBLE/IMPOSSIBLE MOVEs
         # The RL agent cant use our `moves` because it can work only with
         # static action_space shape and static observation_space shape
@@ -118,5 +122,5 @@ class GenericEnv(gym.Env):
         # but adds from 0 to 1
         # and jump 0 to Inf
         # so let it be 5. Also see `observation_from_state`
-        self.observation_space = spaces.Box(low=-1.0, high=10.0, shape=(1,29), dtype=np.int8) # spaces.Discrete(5)
+        self.observation_space = spaces.Box(low=-1.0, high=10.0, shape=(1,height * height + 4), dtype=np.int8) # spaces.Discrete(5)
         self.reward_range = [WRONG_MOVE_PUNISHMENT, -WRONG_MOVE_PUNISHMENT] #score is reward???

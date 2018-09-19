@@ -6,6 +6,7 @@ from baselines import deepq
 def callback(lcl, _glb):
     #TODO:figure out what score is "solved game"
     is_solved = lcl['t'] > 100 and sum(lcl['episode_rewards'][-101:-1]) / 100 >= 199
+    is_solved = False
     return is_solved
 
 env = gym.make('GenericEnv-v1')
