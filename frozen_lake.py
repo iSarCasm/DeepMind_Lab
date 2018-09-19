@@ -2,7 +2,7 @@ import gym
 import generic_env
 from random import randint
 
-env = gym.make('GenericEnv-v1')
+env = gym.make('FrozenLake-v0')
 env.reset()
 for _ in range(100):
     action = randint(0, env.action_space.n - 1)
@@ -13,4 +13,3 @@ for _ in range(100):
     if done:
         print("\n=====\nGAME IS OVER NOW\n=====\n")
         break
-
