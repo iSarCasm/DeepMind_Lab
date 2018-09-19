@@ -5,7 +5,7 @@ from random import randint
 from baselines import deepq
 
 env = gym.make('GenericEnv-v1')
-act = deepq.learn(env, network='mlp', total_timesteps=0, load_path="cartpole_model.pkl")
+act = deepq.learn(env, network='mlp', total_timesteps=0, load_path="generic_env_model.pkl")
 
 obs, done = env.reset(), False
 episode_rew = 0
