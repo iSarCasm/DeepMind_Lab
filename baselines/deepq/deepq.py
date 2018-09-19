@@ -1,6 +1,7 @@
 import os
 import tempfile
 
+import time
 import tensorflow as tf
 import zipfile
 import cloudpickle
@@ -188,7 +189,7 @@ def learn(env,
 
     sess = get_session()
     set_global_seeds(seed)
-
+    tlast = 0
     q_func = build_q_func(network, **network_kwargs)
 
     # capture the shape outside the closure so that the env object is not serialized
@@ -310,10 +311,12 @@ def learn(env,
             num_episodes = len(episode_rewards)
             if done and print_freq is not None and len(episode_rewards) % print_freq == 0:
                 logger.record_tabular("Steps per Episode", t / num_episodes)
+                logger.record_tabular("Secs since last record", time.clock() - tlast)
                 logger.record_tabular("steps", t)
                 logger.record_tabular("episodes", num_episodes)
                 logger.record_tabular("mean 100 episode reward", mean_100ep_reward)
                 logger.record_tabular("% time spent exploring", int(100 * exploration.value(t)))
+                tlast = time.clock()
                 logger.dump_tabular()
 
             if (checkpoint_freq is not None and t > learning_starts and
