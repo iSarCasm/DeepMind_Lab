@@ -55,7 +55,7 @@ class GenericEnv(gym.Env):
         self.state = copy.deepcopy(defaultState)
         self.update_spaces()
         self.all_moves = all_moves(self.state)
-        return self.observation_space
+        return self.observation_from_state()
 
     def step(self, action, debug=0):
         move = self.action_to_move(action)
