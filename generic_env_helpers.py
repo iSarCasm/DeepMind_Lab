@@ -52,7 +52,9 @@ def apply_move(move, player, state):
     new_state = copy.deepcopy(state)
     board = new_state['board']
     opponent = 1 if player == 2 else 2
-    if new_state['current_move'] != player:
+    current_move = new_state['current_move']
+    new_state['current_move'] = opponent
+    if current_move != player:
         raise ValueError('Not your move')
 
     if move['type'] != 'skip':
@@ -64,15 +66,15 @@ def apply_move(move, player, state):
         if board[fy][fx] != player:
             #only ai moves can be wrong, agent is just punished
             if player == AGENT_ID:
-                return state, True
+                return new_state, True
             else:
                 raise ValueError('Player made move not from his cell')
         if board[ty][tx] == -1:
             if player == AGENT_ID:
-                return state, True
+                return new_state, True
             else:
                 raise ValueError('Forbidden cell')
-            
+
 
         if move['type'] == 'add':
             state['adds'][player-1]+=1
@@ -90,7 +92,7 @@ def apply_move(move, player, state):
         elif move['type'] == 'jump':
             if new_state['jumps'][player-1] < 1:
                 if player == AGENT_ID:
-                    return state, True
+                    return new_state, True
                 else:
                     raise ValueError('Not enough jumps')
 
@@ -104,7 +106,6 @@ def apply_move(move, player, state):
                 if board[y][x] == opponent:
                     board[y][x] = player
 
-    new_state['current_move'] = opponent
     return new_state, False
 
 # STATE -> boolean

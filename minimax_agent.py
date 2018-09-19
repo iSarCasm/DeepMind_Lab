@@ -30,22 +30,22 @@ class MinimaxAgent:
 
         for m in all_my_moves:
             self.states_evaluated += 1
-            new_state = env.apply_move(m, self.player, cstate)
+            new_state, _ = env.apply_move(m, self.player, cstate)
             score = self.minimax(new_state, self.ply-1)
             actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
         best_action = max(actions, key=lambda p: (p['score'], p['immediate_score']))
         return best_action['action']
 
     def minimax(self, state, depth=-1):
-        player = env.player(state)
+        player = env.current_player(state)
         if env.is_done(state) or depth == 0:
             return env.score(self.player, state)
         else:
-            actions = env.moves(player, state)
+            actions = env.legal_moves(player, state)
             scores = []
             for a in actions:
                 self.states_evaluated += 1
-                s = env.apply_move(a, state)
+                s, _ = env.apply_move(a, state)
                 score = self.minimax(s, depth=depth-1)
                 scores.append(score)
 

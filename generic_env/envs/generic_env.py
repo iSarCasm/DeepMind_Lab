@@ -37,7 +37,7 @@ defaultState = {
     'current_move': 1
 }
 
-WRONG_MOVE_PUNISHMENT = -1000
+WRONG_MOVE_PUNISHMENT = -20
 class GenericEnv(gym.Env):
     def __init__(self):
         global OPPENENT_ID
@@ -57,12 +57,16 @@ class GenericEnv(gym.Env):
         return self.observation_from_state()
 
     def step(self, action, debug=0):
+        if debug:
+            print(self.state)
         move = self.action_to_move(action)
         self.state, mv_error = apply_move(move, AGENT_ID, self.state)
+        if debug:
+            print(self.state)
         #Greedy AI processing
         move = self.enemyAI.select_move(self.state, debug)
-        self.state = apply_move(move, OPPENENT_ID, self.state)
-        reward = score(AGENT_ID, self.state) - score(OPPENENT_ID, self.state)
+        self.state, _ = apply_move(move, OPPENENT_ID, self.state)
+        reward = score(AGENT_ID, self.state)
         done = is_done(self.state)
         if(mv_error == True):
             done = True
@@ -108,11 +112,11 @@ class GenericEnv(gym.Env):
         # static action_space shape and static observation_space shape
         # Long array of all possible moves for this board (including illegal) - (see `all_moves` func).
         moves_count = len(all_moves(self.state))
-        print('Move count: ', moves_count)
+        # print('Move count: ', moves_count)
         self.action_space = spaces.Discrete(moves_count) # number of actions from 0 to all_moves.size
         # board value range from -(1 to 2) = (0 to 3) = 3
         # but adds from 0 to 1
         # and jump 0 to Inf
         # so let it be 5. Also see `observation_from_state`
-        self.observation_space = spaces.Discrete(5)
-        self.reward_range = [-25*25, 25*25] #score is reward???
+        self.observation_space = spaces.Box(low=-1.0, high=10.0, shape=(1,29), dtype=np.int8) # spaces.Discrete(5)
+        self.reward_range = [WRONG_MOVE_PUNISHMENT, -WRONG_MOVE_PUNISHMENT] #score is reward???
