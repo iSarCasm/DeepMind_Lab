@@ -34,7 +34,7 @@ def all_moves(state):
 
 # PLAYER, STATE -> current legal MOVES
 @lru_cache(maxsize=32000)
-def legal_moves(player, observation):
+def legal_moves(player, observation, all = True, is_jump = False):
     state = state_from_observation(observation)
     board = state['board']
     pcells = hh.player_cells(player, board)
@@ -43,15 +43,17 @@ def legal_moves(player, observation):
     for cell in pcells:
         one_step_cells = hh.neighbours(cell[0], cell[1], board, dist=1)
         one_step_cells = hh.available_cells(one_step_cells)
-        for c1 in one_step_cells:
-            # MOVE [TYPE, FX, FY, TX, TY]
-            moves.append(('add', cell[0], cell[1], c1[0], c1[1]))
-        if state['jumps'][player-1] > 0:
-            two_step_cells = hh.neighbours(cell[0], cell[1], board, dist=2) - set(one_step_cells)
-            two_step_cells = hh.available_cells(two_step_cells)
-            for c2 in two_step_cells:
+        if (all or not is_jump):
+            for c1 in one_step_cells:
                 # MOVE [TYPE, FX, FY, TX, TY]
-                moves.append(('jump', cell[0], cell[1], c2[0], c2[1]))
+                moves.append(('add', cell[0], cell[1], c1[0], c1[1]))
+        if (all or is_jump):
+            if state['jumps'][player-1] > 0:
+                two_step_cells = hh.neighbours(cell[0], cell[1], board, dist=2) - set(one_step_cells)
+                two_step_cells = hh.available_cells(two_step_cells)
+                for c2 in two_step_cells:
+                    # MOVE [TYPE, FX, FY, TX, TY]
+                    moves.append(('jump', cell[0], cell[1], c2[0], c2[1]))
     # print(legal_moves.cache_info())
     return moves
 
@@ -131,6 +133,21 @@ def apply_move(move, player, observation):
 @lru_cache(maxsize=32000)
 def is_done(observation):
     return len(legal_moves(1, observation)) == 1 or len(legal_moves(2, observation)) == 1
+
+@lru_cache(maxsize=32000)
+def winner(current_player, observation):
+    if is_done(observation):
+        opponent = 1 if current_player == 2 else 2
+        score_me = score(current_player, observation)
+        scope_op = score(opponent, observation)
+        if score_me == scope_op:
+            return 0
+        elif scope_op > score_me:
+            return -1
+        else:
+            return +1
+    else:
+        return 0
 
 # STATE -> score NUMBER
 @lru_cache(maxsize=32000)
