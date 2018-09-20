@@ -1,5 +1,6 @@
 import numpy as np
 import random
+import math
 
 def generate_state(size=5):
     board = np.zeros((size, size))
@@ -31,19 +32,35 @@ def generate_state(size=5):
     }
     return state
 
+"""
+This is what makes sense to show to an agent
+"""
+def observation_from_state(state):
+    observation = []
+    board = np.array(state['board']).flatten()
+    jumps = np.array(state['jumps'])
+    adds = np.array(state['adds'])
+    observation.extend(board)
+    observation.extend(jumps)
+    observation.extend(adds)
+    observation.append(state['current_move'])
+    # CURRENT OBSERVATION: [-1, 1, 0, 2, -1, 0, -1, 0, 2, -1, 2, 0, 0, 0, 2, 0, 0, 0, -1, -1, -1, 1, 1, 1, -1, 0, 0, 1, 1]
+    return tuple(observation)
 
-# N rows with 2 edge cells + Two rows top and bottom
-# points = (size - 2) * 2 + (size - mid_point) * 2
-# player_points = [0] * points
-# player_points[0:5] = [1, 1, 1, 2, 2, 2]
-# previous = -1
-# for y in range(size):
-#     for x in range(size):
-#         current = state[y][x]
-#         if y == 0:
-#             if player_points[x] != 0:
-#                 state[y][x] = player_points[x]
-#         elif y == (size-1):
 
-#         else:
+def state_from_observation(observation):
+    size = int(math.sqrt(len(observation) - 5))
+    board = []
+    for y in range(size):
+        line = []
+        for x in range(size):
+            line.append(observation[x + y*size])
+        board.append(line)
 
+    state = {
+        'board': board,
+        'jumps': list(observation[-5:-3]),
+        'adds': list(observation[-3:-1]),
+        'current_move': observation[-1]
+    }
+    return state

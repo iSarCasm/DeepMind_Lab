@@ -7,7 +7,7 @@ import copy
 from gym import spaces
 from minimax_agent import MinimaxAgent
 from generic_env_helpers import apply_move, all_moves, is_done, score, AGENT_ID, OPPENENT_ID
-from state_generator import generate_state
+from state_generator import generate_state, observation_from_state
 
 #TODO:stop hardcoding the player
 #TODO:generate boards randomly
@@ -56,27 +56,27 @@ class GenericEnv(gym.Env):
         self.state = generate_state(size = 15)
         self.update_spaces()
         self.all_moves = all_moves(self.state)
-        return self.observation_from_state()
+        self.observation = observation_from_state(self.state)
+        return self.observation
 
     def step(self, action, debug=0):
         if debug:
             print(self.state)
         move = self.action_to_move(action)
-        self.state, mv_error = apply_move(move, AGENT_ID, self.state)
+        self.observation, mv_error = apply_move(move, AGENT_ID, self.observation)
         if debug:
             print(self.state)
         #Greedy AI processing
-        move = self.enemyAI.select_move(self.state, debug)
-        self.state, _ = apply_move(move, OPPENENT_ID, self.state)
-        reward = score(AGENT_ID, self.state)
-        done = is_done(self.state)
+        move = self.enemyAI.select_move(self.observation, debug)
+        self.observation, _ = apply_move(move, OPPENENT_ID, self.observation)
+        reward = score(AGENT_ID, self.observation)
+        done = is_done(self.observation)
         if(mv_error == True):
             done = True
             reward = WRONG_MOVE_PUNISHMENT
         if debug:
             print(done)
         # self.action_space = moves(1, self.state) - THIS SHOULD BE STATIC I BELIEVE
-        self.observation = self.observation_from_state()
         return self.observation, reward, done, 0
 
     """
@@ -94,20 +94,6 @@ class GenericEnv(gym.Env):
         move = self.all_moves[action]
         return move
 
-    """
-    This is what makes sense to show to an agent
-    """
-    def observation_from_state(self):
-        observation = []
-        board = np.array(self.state['board']).flatten()
-        jumps = np.array(self.state['jumps'])
-        adds = np.array(self.state['adds'])
-        observation.extend(board)
-        observation.extend(jumps)
-        observation.extend(adds)
-        # CURRENT OBSERVATION: [-1, 1, 0, 2, -1, 0, -1, 0, 2, -1, 2, 0, 0, 0, 2, 0, 0, 0, -1, -1, -1, 1, 1, 1, -1, 0, 0, 1, 1]
-        return observation
-
     def update_spaces(self):
         height = len(self.state['board'])
         width = len(self.state['board'][0])
@@ -122,5 +108,5 @@ class GenericEnv(gym.Env):
         # but adds from 0 to 1
         # and jump 0 to Inf
         # so let it be 5. Also see `observation_from_state`
-        self.observation_space = spaces.Box(low=-1.0, high=10.0, shape=(1,height * height + 4), dtype=np.int8) # spaces.Discrete(5)
+        self.observation_space = spaces.Box(low=-1.0, high=10.0, shape=(1,height * height + 5), dtype=np.int8) # spaces.Discrete(5)
         self.reward_range = [WRONG_MOVE_PUNISHMENT, -WRONG_MOVE_PUNISHMENT] #score is reward???

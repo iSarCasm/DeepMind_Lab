@@ -11,41 +11,40 @@ class MinimaxAgent:
         self.states_evaluated = 0
         self.actions_taken = 0
 
-    def select_move(self, state, debug=False):
+    def select_move(self, observation, debug=False):
         self.states_evaluated = 0
         t1 = time.time()
         if debug:
             print('Agent {} making move...'.format(self.player))
-        action = self.look_forward(state)
+        action = self.look_forward(observation)
         if debug:
             print(action)
             print('States evalueated - {}'.format(self.states_evaluated))
             print('Time taken: {}'.format(time.time() - t1))
         return action
 
-    def look_forward(self, state):
-        cstate = copy.deepcopy(state)
-        all_my_moves = env.legal_moves(self.player, cstate)
+    def look_forward(self, observation):
+        all_my_moves = env.legal_moves(self.player, observation)
         actions = []
 
         for m in all_my_moves:
             self.states_evaluated += 1
-            new_state, _ = env.apply_move(m, self.player, cstate)
-            score = self.minimax(new_state, self.ply-1)
-            actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
+            new_observation, _ = env.apply_move(m, self.player, observation)
+            score = self.minimax(new_observation, self.ply-1)
+            actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_observation)})
         best_action = max(actions, key=lambda p: (p['score'], p['immediate_score']))
         return best_action['action']
 
-    def minimax(self, state, depth=-1):
-        player = env.current_player(state)
-        if env.is_done(state) or depth == 0:
-            return env.score(self.player, state)
+    def minimax(self, observation, depth=-1):
+        player = env.current_player(observation)
+        if env.is_done(observation) or depth == 0:
+            return env.score(self.player, observation)
         else:
-            actions = env.legal_moves(player, state)
+            actions = env.legal_moves(player, observation)
             scores = []
             for a in actions:
                 self.states_evaluated += 1
-                s, _ = env.apply_move(a, state)
+                s, _ = env.apply_move(a, observation)
                 score = self.minimax(s, depth=depth-1)
                 scores.append(score)
 
