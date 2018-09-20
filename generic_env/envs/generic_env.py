@@ -44,18 +44,18 @@ class GenericEnv(gym.Env):
         global OPPENENT_ID
         self.metadata = "useless crap"
         self.enemyAI = MinimaxAgent(OPPENENT_ID, ply=1)
-        self.reset()
+        self.reset(size = 15)
+        self.all_moves = all_moves(self.state)
 
     """
     Resets the state of the environment and returns an initial observation.
     Returns: observation (object): the initial observation of the
         space.
     """
-    def reset(self):
+    def reset(self, size = 15):
         # self.state = copy.deepcopy(defaultState)
-        self.state = generate_state(size = 15)
+        self.state = generate_state(size = size)
         self.update_spaces()
-        self.all_moves = all_moves(self.state)
         self.observation = observation_from_state(self.state)
         return self.observation
 

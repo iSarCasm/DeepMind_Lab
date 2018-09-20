@@ -64,3 +64,11 @@ def state_from_observation(observation):
         'current_move': observation[-1]
     }
     return state
+
+def tuple_board(board):
+    size = len(board)
+    new_board = ()
+    for y in range(size):
+        line = tuple(board[y])
+        new_board = new_board + (line,)
+    return new_board
