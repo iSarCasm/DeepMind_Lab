@@ -15,17 +15,16 @@ OPPENENT_ID = 2
 # TODO: only all possible adds and jumps. Right now it includes jumps and adds between ANY cells
 def all_moves(state):
     board = state['board']
-    height = len(board)
-    width = len(board[0])
+    board_size = len(board)
     moves = [] #[{'type': 'skip'}]
-    for fy in range(height):
-      for fx in range(width):
-        one_step_cells = hh.neighbours(fx, fy, board, dist=1)
+    for fy in range(board_size):
+      for fx in range(board_size):
+        one_step_cells = hh.neighbours(fx, fy, board_size, dist=1)
         for c1 in one_step_cells:
             # MOVE [TYPE, FX, FY, TX, TY]
             moves.append(('add', fx, fy, c1[0], c1[1]))
 
-        two_step_cells = hh.neighbours(fx, fy, board, dist=2) - set(one_step_cells)
+        two_step_cells = hh.neighbours(fx, fy, board_size, dist=2) - set(one_step_cells)
         for c2 in two_step_cells:
             # MOVE [TYPE, FX, FY, TX, TY]
             moves.append(('jump', fx, fy, c2[0], c2[1]))
@@ -37,20 +36,21 @@ def all_moves(state):
 def legal_moves(player, observation, all = True, is_jump = False):
     state = state_from_observation(observation)
     board = state['board']
+    board_size = len(board)
     pcells = hh.player_cells(player, board)
     # MOVE [TYPE, FX, FY, TX, TY]
     moves = [('skip', 0, 0, 0, 0)]
     for cell in pcells:
-        one_step_cells = hh.neighbours(cell[0], cell[1], board, dist=1)
-        one_step_cells = hh.available_cells(one_step_cells)
+        one_step_cells = hh.neighbours(cell[0], cell[1], board_size, dist=1)
+        one_step_cells = hh.available_cells(one_step_cells, board)
         if (all or not is_jump):
             for c1 in one_step_cells:
                 # MOVE [TYPE, FX, FY, TX, TY]
                 moves.append(('add', cell[0], cell[1], c1[0], c1[1]))
         if (all or is_jump):
             if state['jumps'][player-1] > 0:
-                two_step_cells = hh.neighbours(cell[0], cell[1], board, dist=2) - set(one_step_cells)
-                two_step_cells = hh.available_cells(two_step_cells)
+                two_step_cells = hh.neighbours(cell[0], cell[1], board_size, dist=2) - set(one_step_cells)
+                two_step_cells = hh.available_cells(two_step_cells, board)
                 for c2 in two_step_cells:
                     # MOVE [TYPE, FX, FY, TX, TY]
                     moves.append(('jump', cell[0], cell[1], c2[0], c2[1]))
@@ -64,6 +64,7 @@ def apply_move(move, player, observation):
     global AGENT_ID
     new_state = state_from_observation(observation)
     board = new_state['board']
+    board_size = len(board)
     opponent = 1 if player == 2 else 2
     current_move = new_state['current_move']
     invalid_move = False
@@ -100,7 +101,7 @@ def apply_move(move, player, observation):
                     new_state['jumps'][player-1] += 1
 
                 board[ty][tx] = player
-                nbrs = hh.neighbours(tx, ty, board)
+                nbrs = hh.neighbours(tx, ty, board_size)
                 for cell in nbrs:
                     x = cell[0]
                     y = cell[1]
@@ -117,7 +118,7 @@ def apply_move(move, player, observation):
                 board[fy][fx] = 0
                 board[ty][tx] = player
                 new_state['jumps'][player-1] -= 1
-                nbrs = hh.neighbours(tx, ty, board)
+                nbrs = hh.neighbours(tx, ty, board_size)
                 for cell in nbrs:
                     x = cell[0]
                     y = cell[1]

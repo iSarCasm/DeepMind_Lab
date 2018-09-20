@@ -1,42 +1,46 @@
-def nearest_neighbours(x, y, board):
+from functools import lru_cache
+
+@lru_cache(maxsize=32000)
+def nearest_neighbours(x, y, size):
     neighbours = []
-    width = len(board[0])
-    height = len(board)
+    width = size
+    height = size
 
     if x+1 < width:
-        neighbours.append((x+1, y, board[y][x+1]))
+        neighbours.append((x+1, y))
     if x-1 >= 0:
-        neighbours.append((x-1, y, board[y][x-1]))
+        neighbours.append((x-1, y))
     if(y % 2 == 1):
         if y - 1 >= 0:
-            neighbours.append((x, y-1, board[y-1][x]))
+            neighbours.append((x, y-1))
         if y -1 >= 0 and x + 1 < width:
-            neighbours.append((x+1, y-1, board[y-1][x+1]))
+            neighbours.append((x+1, y-1))
         if y + 1 < height:
-            neighbours.append((x, y+1, board[y+1][x]))
+            neighbours.append((x, y+1))
         if x + 1 < width and y + 1 < height:
-            neighbours.append((x+1, y+1, board[y+1][x+1]))
+            neighbours.append((x+1, y+1))
     else:
         if y-1 >= 0 and x-1 > 0:
-            neighbours.append((x-1, y-1, board[y-1][x-1]))
+            neighbours.append((x-1, y-1))
         if y-1 >= 0:
-            neighbours.append((x, y-1, board[y-1][x]))
+            neighbours.append((x, y-1))
         if x-1 >= 0 and y+1 < height:
-            neighbours.append((x-1, y+1, board[y+1][x-1]))
+            neighbours.append((x-1, y+1))
         if y+1 < height:
-            neighbours.append((x, y+1, board[y+1][x]))
+            neighbours.append((x, y+1))
     return neighbours
 
-def neighbours(x, y, board, dist=1, remove_start=True):
-    neighbours = set([(x, y, board[y][x])])
+@lru_cache(maxsize=32000)
+def neighbours(x, y, size, dist=1, remove_start=True):
+    neighbours = set([(x, y)])
     for i in range(dist):
         for c1 in list(neighbours):
-            temp = nearest_neighbours(c1[0], c1[1], board)
+            temp = nearest_neighbours(c1[0], c1[1], size)
             for c2 in temp:
                 neighbours.add(c2)
 
     if remove_start:
-        neighbours.remove((x, y, board[y][x]))
+        neighbours.remove((x, y))
 
     return neighbours
 
@@ -48,5 +52,5 @@ def player_cells(player, board):
                 cells.append((x, y, board[y][x]))
     return cells
 
-def available_cells(cells):
-    return list(filter(lambda cell: cell[2] == 0, cells))
+def available_cells(cells, board):
+    return list(filter(lambda cell: board[cell[1]][cell[0]] == 0, cells))
