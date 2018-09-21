@@ -29,7 +29,7 @@ class StateGenerator:
             'board': board,
             'jumps': [0, 0],
             'adds': [1, 1],
-            'current_move': 1
+            'current_move': random.randint(1,2)
         }
         return state
 

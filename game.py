@@ -3,7 +3,7 @@ import env
 
 def play_game(state, agent1, agent2, debug=False):
     while True:
-        if debug:
+        if debug == 2:
             print(np.array(state['board']))
         move = 0
         if state['current_move'] == 1:

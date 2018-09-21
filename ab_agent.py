@@ -20,7 +20,7 @@ class MinimaxAgent:
             print('Agent {} making move...'.format(self.player))
 
         cstate = copy.deepcopy(state)
-        action = self.look_forward(cstate)
+        action = self.alphabeta(cstate, self.ply, -1e10, 1e10, True)
 
         if debug:
             if debug == 2:
@@ -30,22 +30,7 @@ class MinimaxAgent:
         # print(action)
         return action
 
-    def look_forward(self, state):
-        all_my_moves = env.moves(self.player, state)
-        self.actions = []
-
-        for m in all_my_moves:
-            self.states_evaluated += 1
-            new_state = env.apply_move(m, state)
-            score = self.minimax(new_state, self.ply-1, False)
-            self.actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
-        self.actions = sorted(self.actions, key=lambda p: (p['score'], p['immediate_score']))
-        # print(self.actions)
-        best_action = self.actions[-1]
-        return best_action['action']
-
-    def minimax(self, state, depth, maximizingPlayer):
-        # print("{}: {} {}".format(self.ply, depth, maximizingPlayer))
+    def alphabeta(self, state, depth, alpha, beta, maximizingPlayer):
         if env.is_done(state) or depth == 0:
             return env.score(self.player, state)
 
@@ -55,8 +40,11 @@ class MinimaxAgent:
             for a in actions:
                 self.states_evaluated += 1
                 new_state = env.apply_move(a, state)
-                score = self.minimax(new_state, depth-1, False)
+                score = self.alphabeta(new_state, depth-1, alpha, beta, False)
                 value = max(value, score)
+                alpha = max(alpha, value)
+                if alpha >= beta:
+                  break
             return value
         else:
             value = 1e10
@@ -64,6 +52,9 @@ class MinimaxAgent:
             for a in actions:
                 self.states_evaluated += 1
                 new_state = env.apply_move(a, state)
-                score = self.minimax(new_state, depth-1, True)
+                score = self.alphabeta(new_state, depth-1, alpha, beta True)
                 value = min(value, score)
+                beta = min(beta, value)
+                if alpha >= beta then
+                  break
             return value

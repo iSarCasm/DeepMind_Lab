@@ -14,16 +14,17 @@ def opponent(player):
 # PLAYER, STATE -> legal MOVES
 def moves(player, state):
     board = state['board']
+    size = len(board)
     pcells = hh.player_cells(player, board)
     moves = [{'type': 'skip', 'player': player}]
     for cell in pcells:
-        one_step_cells = hh.neighbours(cell[0], cell[1], board, dist=1)
-        one_step_cells = hh.available_cells(one_step_cells)
+        one_step_cells = hh.neighbours(cell[0], cell[1], size, dist=1)
+        one_step_cells = hh.available_cells(one_step_cells, board)
         for c1 in one_step_cells:
             moves.append({ 'type': 'add', 'player': player, 'fx': cell[0], 'fy': cell[1], 'tx': c1[0], 'ty': c1[1] })
         if state['jumps'][player-1] > 0:
-            two_step_cells = hh.neighbours(cell[0], cell[1], board, dist=2) - set(one_step_cells)
-            two_step_cells = hh.available_cells(two_step_cells)
+            two_step_cells = hh.neighbours(cell[0], cell[1], size, dist=2) - set(one_step_cells)
+            two_step_cells = hh.available_cells(two_step_cells, board)
             for c2 in two_step_cells:
                 moves.append({ 'type': 'jump', 'player': player, 'fx': cell[0], 'fy': cell[1], 'tx': c2[0], 'ty': c2[1] })
     return moves
@@ -32,6 +33,7 @@ def moves(player, state):
 def apply_move(move, state):
     new_state = copy.deepcopy(state)
     board = new_state['board']
+    size = len(board)
     player = move['player']
     opponent = 1 if player == 2 else 2
 
@@ -56,7 +58,7 @@ def apply_move(move, state):
                 state['jumps'][player-1] += 1
 
             board[ty][tx] = player
-            nbrs = hh.neighbours(tx, ty, board)
+            nbrs = hh.neighbours(tx, ty, size)
             for cell in nbrs:
                 x = cell[0]
                 y = cell[1]
@@ -69,7 +71,7 @@ def apply_move(move, state):
             board[fy][fx] = 0
             board[ty][tx] = player
             new_state['jumps'][player-1] -= 1
-            nbrs = hh.neighbours(tx, ty, board)
+            nbrs = hh.neighbours(tx, ty, size)
             for cell in nbrs:
                 x = cell[0]
                 y = cell[1]
@@ -81,7 +83,7 @@ def apply_move(move, state):
 
 # STATE -> boolean
 def is_done(state):
-    return len(moves(1, state)) == 1 and len(moves(2, state)) == 1
+    return len(moves(1, state)) == 1 or len(moves(2, state)) == 1
 
 # STATE -> score NUMBER
 def score(player, state):
