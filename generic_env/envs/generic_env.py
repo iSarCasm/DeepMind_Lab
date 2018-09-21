@@ -53,7 +53,7 @@ class GenericEnv(gym.Env):
     """
     def reset(self):
         # self.state = copy.deepcopy(defaultState)
-        self.state = generate_state(size = 15)
+        self.state = generate_state(size = 5)
         self.update_spaces()
         self.all_moves = all_moves(self.state)
         self.observation = observation_from_state(self.state)

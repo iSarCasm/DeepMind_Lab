@@ -13,16 +13,18 @@ env = gym.make('GenericEnv-v1')
 act = deepq.learn(
     env,
     network='mlp',
-    lr=5e-4, #1e-3
-    total_timesteps=50000,
-    exploration_fraction=0.95,
-    exploration_final_eps=0.02,
-    print_freq=20,
+    lr=1e-5, #1e-3
+    total_timesteps=300000,
+    exploration_fraction=1,
+    exploration_final_eps=0.0,
+    print_freq=500,
+    checkpoint_path="checkpoint.pkl",
+    # load_path="generic_env_model.pkl",
     callback=callback,
-    buffer_size=100000, # 50000
-    learning_starts=100,
+    buffer_size=50000, # 50000
+    learning_starts=1000,
     prioritized_replay=True, #False
-    batch_size=128 #32
+    batch_size=256 #32
 )
 print("\n=====\nSaving model to generic_env_model.pkl\n=====\n")
 act.save("generic_env_model.pkl")

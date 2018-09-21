@@ -26,19 +26,19 @@ class MinGenericEnv(gym.Env):
     """
     def reset(self):
         # self.state = copy.deepcopy(defaultState)
-        self.state = generate_state(size = 10)
+        self.state = generate_state(size = 5)
         self.update_spaces()
         self.observation = observation_from_state(self.state)
         self.reward = 0
         return self.observation
 
     def step(self, action, debug=0):
-
+        if type(action) is np.ndarray:
+            action = np.argmax(action)
         is_jump = action == 1
-
         move = self.innerAI.select_move(self.observation, is_jump=is_jump, debug = debug)
         if move[0] == 'skip':
-            return self.observation, -10, True, 0
+            return self.observation, -10, True, { 'nothing': 'there' }
         self.observation, mv_error = apply_move(move, AGENT_ID, self.observation)
         if debug:
             print(self.state)
@@ -53,7 +53,7 @@ class MinGenericEnv(gym.Env):
         if debug:
             print(done)
         # self.action_space = moves(1, self.state) - THIS SHOULD BE STATIC I BELIEVE
-        return self.observation, self.reward, done, 0
+        return self.observation, self.reward, done, { 'nothing': 'there' }
 
     """
     We dont use this crap

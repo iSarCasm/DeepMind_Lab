@@ -15,13 +15,13 @@ act = deepq.learn(
     env,
     network='mlp',
     lr=5e-3, #1e-3
-    total_timesteps=20000,
-    exploration_fraction=0.98,
+    total_timesteps=50000,
+    exploration_fraction=0.99,
     exploration_final_eps=0.0,
-    print_freq=5,
+    print_freq=50,
     callback=callback,
     buffer_size=50000, # 50000
-    learning_starts=100,
+    learning_starts=1000,
     prioritized_replay=True, #False
     batch_size=128 #32
 )

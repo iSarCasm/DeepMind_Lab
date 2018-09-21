@@ -32,7 +32,7 @@ def all_moves(state):
     return moves
 
 # PLAYER, STATE -> current legal MOVES
-@lru_cache(maxsize=32000)
+# @lru_cache(maxsize=32000)
 def legal_moves(player, observation, all = True, is_jump = False):
     state = state_from_observation(observation)
     board = state['board']
@@ -86,7 +86,7 @@ def apply_move(move, player, observation):
                     break
                 else:
                     raise ValueError('Player made move not from his cell')
-            if board[ty][tx] == -1:
+            if board[ty][tx] != 0:
                 if player == AGENT_ID:
                     invalid_move = True
                     break
