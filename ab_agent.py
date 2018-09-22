@@ -23,11 +23,9 @@ class AbAgent:
         score, action = self.alphabeta(cstate, self.ply, -1e10, 1e10, True, None, debug)
 
         if debug:
-            if debug == 2:
-                print(action)
             print('States evalueated - {}'.format(self.states_evaluated))
             print('Time taken: {}'.format(time.time() - t1))
-        print(action)
+            print(action)
         return action
 
     def alphabeta(self, state, depth, alpha, beta, maximizingPlayer, selected_move = None, debug = False):
@@ -45,24 +43,29 @@ class AbAgent:
             if debug:
                 print('choosing max')
             value = -1e10
+            move_to_return = selected_move
             actions = env.moves(self.player, state)
             for a in actions:
                 self.states_evaluated += 1
                 new_state = env.apply_move(a, state)
 
                 if selected_move == None:
-                    score, _ = self.alphabeta(new_state, depth-1, alpha, beta, False, a, debug)
+                    score, the_move = self.alphabeta(new_state, depth-1, alpha, beta, False, a, debug)
                 else:
-                    score, _ = self.alphabeta(new_state, depth-1, alpha, beta, False, selected_move, debug)
+                    score, the_move = self.alphabeta(new_state, depth-1, alpha, beta, False, selected_move, debug)
                 value = max(value, score)
+                if value >= score:
+                    value = score
+                    if selected_move == None:
+                        move_to_return = the_move
                 alpha = max(alpha, value)
                 if alpha >= beta:
                   break
             if debug:
                 for i in range(3-depth):
                     print("\t", end='')
-                print([value, selected_move])
-            return [value, selected_move]
+                print([value, move_to_return])
+            return [value, move_to_return]
         else:
             if debug:
                 print('choosing min')
