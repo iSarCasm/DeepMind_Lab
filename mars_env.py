@@ -61,9 +61,12 @@ PROBABILITIES = {
 def moves(players, state):
     all_moves = []
     for player in players:
-        moves = []
-        dig = { "rover_id": player, "action_type": "dig" }
-        charge = { "rover_id": player, "action_type": "charge" }
+        moves = [
+            { "rover_id": player, "action_type": "dig" },
+            { "rover_id": player, "action_type": "charge" }
+        ]
+        moves += move_moves(player, state)
+        all_moves.append(moves)
 
     return_moves = []
     if len(all_moves) == 2:
@@ -77,7 +80,15 @@ def moves(players, state):
     return return_moves
 
 def move_moves(player, state):
-    
-
+    return [
+        { "rover_id": player, "action_type": "move", "dx": -1, "dy": 1 },
+        { "rover_id": player, "action_type": "move", "dx": 0, "dy": 1 },
+        { "rover_id": player, "action_type": "move", "dx": 1, "dy": 1 },
+        { "rover_id": player, "action_type": "move", "dx": 1, "dy": 0 },
+        { "rover_id": player, "action_type": "move", "dx": 1, "dy": -1 },
+        { "rover_id": player, "action_type": "move", "dx": 0, "dy": -1 },
+        { "rover_id": player, "action_type": "move", "dx": -1, "dy": -1 },
+        { "rover_id": player, "action_type": "move", "dx": -1, "dy": 0 }
+    ]
 
 
