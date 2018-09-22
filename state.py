@@ -3,7 +3,7 @@ import time
 import numpy
 
 def llog(strs):
-    print(strs, file=open("/home/sarcasm/workspace/DeepMind_Lab/client2.log", "a"))
+    print(strs, file=open("/home/sarcasm/workspace/DeepMind_Lab/client3.log", "a"))
 
 class State:
     #do reset before using(?)
@@ -22,6 +22,7 @@ class State:
             cury = self.state["data"]["rovers"][rover_id]["y"]
             # TODO:respect rover_id
             # update saved_map
+            llog("\n")
             for xdef in range(-1, 2):
                 for ydef in range(-1, 2):
                     #wrap map
@@ -37,7 +38,8 @@ class State:
                     if diffy > mapsize:
                         diffy = 0
                     if "area" in self.state["data"]["rovers"][rover_id]:
-                        State.saved_map[diffx][diffy] = self.state["data"]["rovers"][rover_id]["area"][xdef+1][ydef+1].copy()
+                        llog("Save to map {} at ({}, {})".format(self.state["data"]["rovers"][rover_id]["area"][xdef+1][ydef+1], diffx, diffy))
+                        State.saved_map[diffx][diffy] = self.state["data"]["rovers"][rover_id]["area"][ydef+1][xdef+1].copy()
 
     def reset(self):
         # State.saved_map = numpy.zeros(shape=(self.state["data"]["FIELD_SIZE"], self.state["data"]["FIELD_SIZE"]))
@@ -72,6 +74,6 @@ class State:
     def search_for_mineral(self, mineral_id):
         for x in range(0, self.state["data"]["FIELD_SIZE"]):
             for y in range(0, self.state["data"]["FIELD_SIZE"]):
-                if State.saved_map[x][y]["terrain"] == mineral_id:
+                if State.saved_map[x][y]["terrain"] == mineral_id and not self.onHole(x, y) :
                     return [x, y]
         return [None, None]

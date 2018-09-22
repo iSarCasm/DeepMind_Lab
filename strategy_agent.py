@@ -2,6 +2,8 @@ import mars_env
 import copy
 import time
 import numpy as np
+import random
+from state import State
 
 def llog(strs):
     print(strs, file=open("/home/sarcasm/workspace/DeepMind_Lab/client3.log", "a"))
@@ -12,7 +14,9 @@ class StrategyAgent:
 
     def select_move(self, state):
         self.state = state
+        llog(State.saved_map)
         self.x, self.y = state.rover_position(self.player)
+        llog("agent at ({}, {})".format(self.x, self.y))
         if self.hasEnergy():
             if self.load() < 3:
                 if self.onMineral():
@@ -27,7 +31,9 @@ class StrategyAgent:
             return self.charge()
 
     def foundMineral(self):
-        self.mx, self.my = self.state.search_for_mineral(3)
+        self.mx, self.my = self.state.search_for_mineral(2)
+        if self.mx == None:
+            self.mx, self.my = self.state.search_for_mineral(3)
         return self.mx != None
 
     def hasEnergy(self):
@@ -50,15 +56,21 @@ class StrategyAgent:
         return self.go_to(self.state.base_x, self.state.base_y)
 
     def go_to_mineral(self):
-        llog("Go to mineral")
+        llog("Go to mineral {} {}".format(self.mx, self.my))
         return self.go_to(self.mx, self.my)
 
     def go_to(self, x, y):
-        dx = x - self.x
-        dx = max(1, min(-1, dx))
-        dy = y - self.y
-        dy = max(1, min(-1, dy))
+        dx = self.resetrict(x - self.x)
+        dy = self.resetrict(y - self.y)
         return { "rover_id": self.player, "action_type": "move", "dx": dx, "dy": dy }
+
+    def resetrict(self, p):
+        if p > 1:
+            return 1
+        elif p < -1:
+            return -1
+        else:
+            return p
 
     def dig(self):
         llog("dig")
