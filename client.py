@@ -20,7 +20,7 @@ while True:
     # agent = RandomAgent([1])
     # move = [agent.select_move(state)]
     agent = StrategyAgent(1)
-    move = agent.select_move(state)
+    move = [agent.select_move(state)]
     llog("move selected")
     llog(move)
     # f.write(inputStr+'\n')

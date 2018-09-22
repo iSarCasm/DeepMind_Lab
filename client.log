@@ -1,2481 +1,68 @@
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'charge'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-{'rover_id': 1, 'action_type': 'dig'}
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
+None
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'charge'}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[{'rover_id': 1, 'action_type': 'dig'}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
 move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[{'rover_id': 1, 'action_type': 'dig'}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
@@ -2485,69 +72,31 @@ move selected
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
 [{'rover_id': 1, 'action_type': 'charge'}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
 move selected
@@ -2555,55 +104,53 @@ move selected
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'charge'}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'charge'}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
-move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
-[{'rover_id': 1, 'action_type': 'dig'}]
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
-move selected
-[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
 move selected
@@ -2611,6 +158,2770 @@ move selected
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
 move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
 move selected
 [{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+[[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+{'rover_id': 1, 'action_type': 'dig'}
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 0, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'charge'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 0}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'dig'}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]
+move selected
+[{'rover_id': 1, 'action_type': 'move', 'dx': 1, 'dy': 1}]

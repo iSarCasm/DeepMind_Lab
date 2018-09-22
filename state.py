@@ -2,6 +2,9 @@ import json
 import time
 import numpy
 
+def llog(strs):
+    print(strs, file=open("/home/sarcasm/workspace/DeepMind_Lab/client2.log", "a"))
+
 class State:
     #do reset before using(?)
     saved_map = None
@@ -10,9 +13,11 @@ class State:
         self.base_x = self.state["data"]["base"]["x"]
         self.base_y = self.state["data"]["base"]["y"]
         self.energy = self.state["data"]["rovers"][0]["energy"]
-        if self.state["command"] == "reset" or State.saved_map == None:
+        if State.saved_map is None:
             self.reset()
-        for rover_id in range(0, self.state["data"]["rovers"].len()):
+        if self.state["command"] == "reset":
+            State.saved_map = None
+        for rover_id in range(0, len(self.state["data"]["rovers"])):
             curx = self.state["data"]["rovers"][rover_id]["x"]
             cury = self.state["data"]["rovers"][rover_id]["y"]
             # TODO:respect rover_id
@@ -31,10 +36,13 @@ class State:
                         diffy = mapsize
                     if diffy > mapsize:
                         diffy = 0
-                    State.saved_map[diffx][diffy] = self.state["data"]["rovers"][rover_id]["area"][xdef+1][ydef+1].copy()
+                    if "area" in self.state["data"]["rovers"][rover_id]:
+                        State.saved_map[diffx][diffy] = self.state["data"]["rovers"][rover_id]["area"][xdef+1][ydef+1].copy()
 
     def reset(self):
-        saved_map = numpy.zeros(shape=(self.state["data"]["FIELD_SIZE"], self.state["data"]["FIELD_SIZE"]))
+        # State.saved_map = numpy.zeros(shape=(self.state["data"]["FIELD_SIZE"], self.state["data"]["FIELD_SIZE"]))
+        size = self.state["data"]["FIELD_SIZE"]
+        State.saved_map = [[{"terrain":0,"objects":[]} for i in range(size)] for j in range(size)]
 
     def score(self, state):
         #reward for being next to unexplored territory
@@ -50,13 +58,16 @@ class State:
         return State.saved_map[x][y]
 
     def rover_position(self, id=0):
-        return [self.state["data"]["rovers"][id]["x"], self.state["data"]["rovers"][id]["y"]]
+        return [self.state["data"]["rovers"][id-1]["x"], self.state["data"]["rovers"][id-1]["y"]]
 
     def onHole(self, x, y):
-        return 4 in State.savedmap[x][y]["objects"]#OBJECTS["HOLE"]
+        return 4 in State.saved_map[x][y]["objects"]#OBJECTS["HOLE"]
+
+    def onBase(self, x, y):
+        return 10 in State.saved_map[x][y]["objects"]#OBJECTS["HOLE"]
 
     def load_on_rover(self, rover_id):
-        return self.state["data"]["rovers"][rover_id]["load"]
+        return self.state["data"]["rovers"][rover_id-1]["load"]
 
     def search_for_mineral(self, mineral_id):
         for x in range(0, self.state["data"]["FIELD_SIZE"]):
