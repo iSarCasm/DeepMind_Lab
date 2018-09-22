@@ -40,7 +40,7 @@ class MinimaxAgent:
             score = self.minimax(new_state, self.ply-1, False)
             self.actions.append({ 'action': m, 'score': score, 'immediate_score': env.score(self.player, new_state)})
         self.actions = sorted(self.actions, key=lambda p: (p['score'], p['immediate_score']))
-        # print(self.actions)
+        print(self.actions)
         best_action = self.actions[-1]
         return best_action['action']
 

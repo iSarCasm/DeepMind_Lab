@@ -1,4 +1,4 @@
-import env
+import mars_env
 import copy
 import numpy as np
 
@@ -16,5 +16,5 @@ class RandomAgent:
 
     def look_forward(self, state):
         state = copy.deepcopy(state)
-        all_my_moves = env.moves(self.player, state)
+        all_my_moves = mars_env.moves(self.player, state)
         return np.random.choice(all_my_moves)

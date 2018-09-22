@@ -53,14 +53,14 @@ class AbAgent:
                     score, the_move = self.alphabeta(new_state, depth-1, alpha, beta, False, a, debug)
                 else:
                     score, the_move = self.alphabeta(new_state, depth-1, alpha, beta, False, selected_move, debug)
-                value = max(value, score)
-                if value >= score:
+                # value = max(value, score)
+                if score >= value:
                     value = score
                     if selected_move == None:
                         move_to_return = the_move
                 alpha = max(alpha, value)
                 if alpha >= beta:
-                  break
+                    break
             if debug:
                 for i in range(3-depth):
                     print("\t", end='')
@@ -78,7 +78,7 @@ class AbAgent:
                 value = min(value, score)
                 beta = min(beta, value)
                 if alpha >= beta:
-                  break
+                    break
 
             if debug:
                 for i in range(3-depth):

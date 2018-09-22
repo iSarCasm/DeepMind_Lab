@@ -1,0 +1,8 @@
+#CLIENT_KEY=55807745033356074
+CLIENT_KEY=1111
+#CHILD_PATH=./start.sh
+#CHILD_PATH=./nodejs/js_client.js
+#CHILD_PATH=./ruby/ruby_client.rb
+CHILD_PATH=/home/sarcasm/workspace/DeepMind_Lab/client.py
+SERVER_IP=localhost:7000
+PRETTIFY=1
