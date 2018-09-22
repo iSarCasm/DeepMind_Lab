@@ -77,3 +77,24 @@ class State:
                 if State.saved_map[x][y]["terrain"] == mineral_id and not self.onHole(x, y) :
                     return [x, y]
         return [None, None]
+
+    def mountain_error(self):
+        return "1" in self.state["data"]["errors"]
+
+    def closest_terrain_to_rover(self, terrain_type, rover_id, ignore_holes=True):
+        leastdist = 1000
+        mapsize = self.state["data"]["FIELD_SIZE"]
+        ux = self.state["data"]["rovers"][rover_id]["x"]
+        uy = self.state["data"]["rovers"][rover_id]["y"]
+        for x in range(0, mapsize):
+            for y in range(0, mapsize):
+                if State.saved_map[x][y]["terrain"] == terrain_type:
+                    if not ignore_holes and 4 in State.saved_map["objects"]:
+                        #find if this terrain is closer than last found
+                        diff_x = abs(ux-x)
+                        diff_y = abs(uy-y)
+                        if max(diff_x, diff_y) < leastdist:
+                            saved_x = x
+                            saved_y = y
+                            leastdist = max(x, y)
+        return [savedx, savedy]
