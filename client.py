@@ -6,6 +6,7 @@ import sys
 import random
 
 from random_agent import RandomAgent
+from strategy_agent import StrategyAgent
 from state import State
 def llog(strs):
     print(strs, file=open("/home/sarcasm/workspace/DeepMind_Lab/client.log", "a"))
@@ -15,7 +16,10 @@ random.seed
 while True:
     inputStr = input()
     state = State(inputStr)
-    agent = RandomAgent([1])
+    # state = json.loads(inputStr)
+    # agent = RandomAgent([1])
+    # move = [agent.select_move(state)]
+    agent = StrategyAgent(1)
     move = agent.select_move(state)
     llog("move selected")
     llog(move)
@@ -25,7 +29,7 @@ while True:
     #     choice = choice + 1
     # dx = choice % 3 - 1
     # dy = choice / 3 - 1
-    move = [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
+    # move = [{'rover_id': 1, 'action_type': 'move', 'dx': -1, 'dy': -1}]
     str = json.dumps(move)
 #    f.write('send string\n')
 #    f.write(str+'\n')

@@ -65,7 +65,7 @@ def moves(players, state):
             { "rover_id": player, "action_type": "dig" },
             { "rover_id": player, "action_type": "charge" }
         ]
-        moves += move_moves(player, state)
+        moves += move_moves(player)
         all_moves.append(moves)
 
     return_moves = []
@@ -79,7 +79,7 @@ def moves(players, state):
     
     return return_moves
 
-def move_moves(player, state):
+def move_moves(player):
     return [
         { "rover_id": player, "action_type": "move", "dx": -1, "dy": 1 },
         { "rover_id": player, "action_type": "move", "dx": 0, "dy": 1 },
