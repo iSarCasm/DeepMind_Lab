@@ -75,7 +75,7 @@ def moves(players, state):
                 complex_move = [m1, m2]
                 return_moves.append(complex_move)
     else:
-        return_moves = all_moves
+        return_moves = all_moves[0]
     
     return return_moves
 

@@ -17,7 +17,7 @@ class MaxmaxAgent:
             print('Agent {} making move...'.format(self.player))
 
         cstate = copy.deepcopy(state)
-        action, reward = self.maxmax(cstate, self.ply)
+        action, reward = self.maxmax(cstate, self.ply, -1e10, None)
 
         if debug:
             if debug == 2:
@@ -27,19 +27,18 @@ class MaxmaxAgent:
         # print(action)
         return action
 
-    def maxmax(self, state, depth):
+    def maxmax(self, state, depth, maxv, selected_action):
         if depth == 0:
-            return mars_env.score(state)
+            return [selected_action, state.score()]
 
         all_my_moves = mars_env.moves(self.player, state)
         
         selected_action = None
-        value = -1e10
         for m in all_my_moves:
             new_state = mars_env.apply_move(a, state)
             score = maxmax(state, depth-1)
-            if score > value:
-                value = score
+            if score > maxv:
+                maxv = score
                 selected_action = m
 
     def look_forward(self, state):
