@@ -5,7 +5,7 @@ import numpy
 class State:
     #do reset before using(?)
     saved_map = None
-
+    score = 0
     def __init__(self, inputStr):
         self.state = json.loads(inputStr)
         if self.state["command"] == "reset" or saved_map == None:
@@ -32,4 +32,13 @@ class State:
 
     def reset(self):
         saved_map = numpy.zeros(shape=(self.state["field_size"], self.state["field_size"]))
+        score = 0
 
+    def score(self, state):
+        #reward for being next to unexplored territory
+
+        #reward for standing on resource
+
+        #reward for returning to base(with 3 resources)
+
+        return 1
